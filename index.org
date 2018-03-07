@@ -1,0 +1,20 @@
+#+TITLE: Connect AI2 companion via QR code
+* Introduction
+Picture notes I took trying to connect ai2 apps to the $10 dollar Samsung phone running Android 4.3 using QR code.
+
+* Check that the phone is on the same wifi as the laptop
+#+attr_html: :width 960px
+[[./img/local-wifi.jpg]]
+
+* Start ai2 companion app on the phone
+#+attr_html: :width 960px
+[[./img/start-ai2-companion.jpg]]
+
+* Press scan QR code button in the companion app
+#+attr_html: :width 960px
+[[./img/press-scan-qr-code.jpg]]
+
+* talk-to-me app live on phone
+#+attr_html: :width 960px
+[[./img/live-on-phone.jpg]]
+
